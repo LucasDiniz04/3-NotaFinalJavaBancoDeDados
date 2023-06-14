@@ -1,7 +1,7 @@
 - Trabalho Avaliativo para conclusão de matéria | POO Em Java
 * Projeto em linguagem Java que cria um Sistema de cadastro de uma empresa fictícia de automóveis.
 
-* Projeto se encontra em src\main\java
+* Projeto se encontra em src/main/java
 * O Arquivo "main" do projeto é o "SistemaCadastro.java".
 
 * Para tudo funcionar corretamente utilize as informações abaixo como base:
